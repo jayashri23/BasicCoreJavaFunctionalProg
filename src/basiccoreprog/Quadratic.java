@@ -1,4 +1,4 @@
-package functionalprogram;
+package basiccoreprog;
 
 import java.util.Scanner;
 
