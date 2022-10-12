@@ -1,6 +1,5 @@
-package functionalprogram;
+gipackage basiccoreprog;
 
-import java.util.Map;
 import java.util.Scanner;
 
 public class distance {
