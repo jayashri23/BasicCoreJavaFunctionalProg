@@ -1,4 +1,4 @@
-package functionalprogram;
+package basiccoreprog;
 
 //Desc -> A library for reading in 2D arrays of integers, doubles, or booleans from
 //standard input and printing them out to standard output.
